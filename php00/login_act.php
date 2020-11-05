@@ -34,3 +34,4 @@ if ($val["id"] != "") {
     header('Location: login.php');
 }
 exit();
+
